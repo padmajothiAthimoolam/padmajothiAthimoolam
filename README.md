@@ -1,4 +1,4 @@
-# Hi there, I'm Padmajothi Athimoolam 👋
+# Hi there, I'm Padma👋
 
 Welcome to my GitHub profile! I'm a passionate Full Stack Developer in building dynamic, scalable web applications. I love turning ideas into reality using modern technologies and innovative solutions.
 
