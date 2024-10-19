@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer in building 
 - **Languages**: TypeScript, JavaScript, HTML5, CSS3
 - **Front-End**: React, Next.js, Redux, React Native
 - **Back-End**: Node.js, Express, RESTful & GraphQL APIs
-- **Databases**: PostgreSQL, MongoDB
+- **Databases**: PostgreSQL, MongoDB,SQL,Redis
 - **DevOps**: AWS, Docker, Git, CI/CD
 - **Testing**: Cypress, Jest
 
